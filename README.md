@@ -1,4 +1,4 @@
-# Тестирование API при помощи Junit4, Maven, **REST Assured**
+# Тестирование API сайта *https://stellarburgers.nomoreparties.site/* при помощи Junit4, Maven, **REST Assured**
 ## *Также подключил Allure, gson и faker*
 ### Тестируются различные сценарии:
 - Создания пользователя
